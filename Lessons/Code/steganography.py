@@ -1,7 +1,7 @@
 """
 [Day 7] Assignment: Steganography
     - Turn in on Gradescope (https://make.sc/bew2.3-gradescope)
-    - Lesson Plan: https://make-school-courses.github.io/BEW-2.3-Web-Security/#/Lessons/Steganography
+    - Lesson Plan: https://tech-at-du.github.io/BEW-2.3-Web-Security/#/Lessons/Steganography
 
 Deliverables:
     1. All TODOs in this file.

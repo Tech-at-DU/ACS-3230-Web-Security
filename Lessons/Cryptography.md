@@ -48,7 +48,7 @@ For an example of cryptograms in literature, check out Edgar Allan Poe's [The Go
 1. **Visit** the [Cryptogram Creator](https://markknowsnothing.weebly.com/cryptogramcreator.html)
 1. **Paste your quote** in the text area. _Use image below for reference_:
 
-    ![cryptogram](https://raw.githubusercontent.com/Make-School-Courses/BEW-2.3-Web-Security/master/Lessons/Assets/cryptogram.jpeg)
+    ![cryptogram](https://raw.githubusercontent.com/tech-at-du/BEW-2.3-Web-Security/master/Lessons/Assets/cryptogram.jpeg)
 
 1. **Open Slack**
 1. Share your cryptogram in Slack.
@@ -145,7 +145,7 @@ Additionally, since changing the LSB doesn’t drastically change the overall va
 
 **This dog is hiding a very secret message… can you decode it?**
 
-![Sample encoded image](https://raw.githubusercontent.com/Make-School-Courses/BEW-2.3-Web-Security/master/Lessons/Assets/encoded_sample.png)
+![Sample encoded image](https://raw.githubusercontent.com/tech-at-du/BEW-2.3-Web-Security/master/Lessons/Assets/encoded_sample.png)
 
 _In this activity, you will delve a bit deeper into the specifics of how images are created in addition to learning more about bits and binary math._
 
@@ -170,9 +170,9 @@ The secret image is hidden in the LSB of the pixels in the red channel of the im
 
 **Copy this code into your IDE to get started:**
 
-[](https://raw.githubusercontent.com/Make-School-Courses/BEW-2.3-Web-Security/master/Lessons/Code/steganography.py ':include :type=code python')
+[](https://raw.githubusercontent.com/tech-at-du/BEW-2.3-Web-Security/master/Lessons/Code/steganography.py ':include :type=code python')
 
-[Link to File on GitHub](https://raw.githubusercontent.com/Make-School-Courses/BEW-2.3-Web-Security/master/Lessons/Code/steganography.py)
+[Link to File on GitHub](https://raw.githubusercontent.com/tech-at-du/BEW-2.3-Web-Security/master/Lessons/Code/steganography.py)
 
 <!-- > -->
 
