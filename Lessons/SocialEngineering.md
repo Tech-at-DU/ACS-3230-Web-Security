@@ -37,7 +37,7 @@ Social Engineering is probably the most common and most successful type of attac
 
 ## 💻 Activity: I Want Netflix
 
-**Scenario:** Your friend's roommate has their own Netflix account, and you _desperately_ want to see the new season of Black Mirror. You've been wanting to have a day of binge-watching for weeks, but you don't have Netflix! The password is heavily protected, and you _just_ started BEW 2.3, so you don't know other ways of obtaining it yet.
+**Scenario:** Your friend's roommate has their own Netflix account, and you _desperately_ want to see the new season of Black Mirror. You've been wanting to have a day of binge-watching for weeks, but you don't have Netflix! The password is heavily protected, and you _just_ started ACS 3230, so you don't know other ways of obtaining it yet.
 
 **Goal:** Figure out a way to get the password from the friend's roommate without coding. Devise a social engineering attack!
 

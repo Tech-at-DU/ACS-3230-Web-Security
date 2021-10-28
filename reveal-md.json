@@ -4,7 +4,7 @@
     "theme": "black",
     "highlightTheme": "atom-one-light",
     "watch": true,
-    "title": "BEW 2.3 Slides",
+    "title": "ACS 3230 Slides",
     "static": "Slides",
     "assetsDir": "Assets",
     "staticDirs": "Lessons/Images",
