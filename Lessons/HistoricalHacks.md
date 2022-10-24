@@ -1,4 +1,4 @@
-# 📜 Day 2: Historic Hacks / Ethical Hacking
+# 📜 Day 2: Historic Hacks
 
 ### ⏱ Agenda
 
