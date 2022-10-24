@@ -83,7 +83,7 @@ To pass this course you must meet the following requirements:
 
 [Gradescope]: https://gradescope.com
 [Lesson 1]: Lessons/SocialEngineering.md
-[Lesson 2]: Lessons/EthicalHacking.md
+[Lesson 2]: Lessons/HistoricHacks.md
 [Lesson 3]: Lessons/ServerSideExploits.md
 [Lesson 4]: Lessons/Sanitization.md
 [Lesson 5]: Lessons/ClientSideExploits.md
