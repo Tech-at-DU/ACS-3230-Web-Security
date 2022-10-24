@@ -25,7 +25,7 @@
 2. What do you _want_ to know about web security?
 3. What do you think is the **biggest problem** with web security today?
 
-**Submit your answers [HERE](https://PollEv.com/droxey) so we can discuss them live!**
+**Submit your answers [HERE](https://www.gradescope.com/courses/460101/assignments/2380326) so we can discuss them live!**
 
 ## 💻 [**40m**] Activity: Historical Hacks Research
 
