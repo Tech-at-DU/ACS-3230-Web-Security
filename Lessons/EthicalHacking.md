@@ -39,7 +39,7 @@
 - Stuxnet
 - WhatsApp Spyware Installation
 
-The instructor will assign each group a hack. Use this time to **prepare a short, three minute lesson** to teach back to the class about your assigned topics.
+The instructor will assign each group a hack. Use this time to **prepare a short, three minute lesson WITH SLIDES** to teach back to the class about your assigned topics. When you're done, your group can turn in the slides [here](https://www.gradescope.com/courses/460101/assignments/2379029).
 
 ### [**20m**] Present the Hack
 
