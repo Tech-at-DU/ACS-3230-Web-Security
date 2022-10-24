@@ -4,10 +4,11 @@
 
 1. [🏆 [**5m**] Learning Objectives](#%f0%9f%8f%86-5m-learning-objectives)
 2. [💭 [**15m**] Activity: Questions to the Class](#%f0%9f%92%ad-15m-activity-questions-to-the-class)
-3. [💻 [**40m**] Activity: Historical Hacks Research](#%f0%9f%92%bb-40m-activity-historical-hacks-research)
+3. [💻 [**45m**] Activity: Historical Hacks Research](#%f0%9f%92%bb-45m-activity-historical-hacks-research)
 4. [🌴 [**10m**] BREAK](#%f0%9f%8c%b4-10m-break)
-5. [📖 [**20m**] TT / Overview](#%f0%9f%93%96-20m-tt--overview)
-6. [📚 [**15m**] Activity: Defining Vocabulary](#%f0%9f%93%9a-15m-activity-defining-vocabulary)
+5. [💻 [**45m**] Activity: Historical Hacks Presentations](#%f0%9f%92%bb-45m-activity-historical-hacks-presentations)
+<!-- 6. [📖 [**20m**] TT / Overview](#%f0%9f%93%96-20m-tt--overview)
+7. [📚 [**15m**] Activity: Defining Vocabulary](#%f0%9f%93%9a-15m-activity-defining-vocabulary) -->
 
 ## 🏆 [**5m**] Learning Objectives
 
@@ -27,9 +28,9 @@
 
 **Submit your answers [HERE](https://www.gradescope.com/courses/460101/assignments/2380326) so we can discuss them live!**
 
-## 💻 [**40m**] Activity: Historical Hacks Research
+## 💻 [45m] Activity: Historical Hacks Research
 
-### [**20m**] Research a Hack
+### Research a Hack
 
 **Form groups of four, and research one of the following historical hacks**:
 
@@ -41,7 +42,7 @@
 
 The instructor will assign each group a hack. Use this time to **prepare a short, three minute lesson WITH SLIDES** to teach back to the class about your assigned topics. When you're done, your group can turn in the slides [here](https://www.gradescope.com/courses/460101/assignments/2379029).
 
-### [**20m**] Present the Hack
+## 💻 [45m] Activity: Historical Hacks Presentations
 
 **Present the following to the class after you research**:
 
