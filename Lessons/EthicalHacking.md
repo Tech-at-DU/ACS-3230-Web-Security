@@ -42,6 +42,8 @@
 
 The instructor will assign each group a hack. Use this time to **prepare a short, three minute lesson WITH SLIDES** to teach back to the class about your assigned topics. When you're done, your group can turn in the slides [here](https://www.gradescope.com/courses/460101/assignments/2379029).
 
+## 🌴 [**10m**] BREAK
+
 ## 💻 [45m] Activity: Historical Hacks Presentations
 
 **Present the following to the class after you research**:
@@ -50,8 +52,8 @@ The instructor will assign each group a hack. Use this time to **prepare a short
 2. What **type of attack** was it?
 3. **How long did it take** to be released to the public, detected, and finally responded to?
 
-## 🌴 [**10m**] BREAK
 
+<!-- 
 ## 📖 [**20m**] TT / Overview
 
 ### What's a Security Model?
@@ -157,3 +159,4 @@ Now mix up the groups so that each group has one member who is knoweldgable on e
 
 - [CIA Definition](https://whatis.techtarget.com/definition/Confidentiality-integrity-and-availability-CIA)
 - [AAA Definition](https://www.techopedia.com/definition/24130/authentication-authorization-and-accounting-aaa)
+ -->
