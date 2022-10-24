@@ -35,7 +35,7 @@ By the end of the course, you will be able to&hellip;
 | Class |  Security Category   | Topic                                                    |
 | :---: | :------------------: | -------------------------------------------------------- |
 |   1   | _Social Engineering_ | **[Lesson 1]: How to Hack a Human**                      |
-|   2   |      _Culture_       | **[Lesson 2]: Historic Hacks / Ethical Hacking**         |
+|   2   |      _History_       | **[Lesson 2]: Historic Hacks**         |
 |   3   |        _Web_         | **[Lesson 3]: Server-Side Vulnerabilities**              |
 |   4   |        _Web_         | **[Lesson 4]: Securing Data: Sanitization & Validation** |
 |   5   |        _Web_         | **[Lesson 5]: Client-Side Vulnerabilities**              |  |
