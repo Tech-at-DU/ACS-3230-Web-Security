@@ -29,8 +29,8 @@ By the end of the course, you will be able to&hellip;
 
 ## Schedule
 
-**Course Dates:** Tuesday, October 19 through Thursday, December 9, 2021<br>
-**Class Times:** Tuesday &amp; Thursday at 4:00pm to 5:30pm
+**Course Dates:** Wednesday, October 19 through Wednesday, December 7, 2022<br>
+**Class Times:** Monday &amp; Wednesday at 4:00pm to 7:45pm
 
 | Class |  Security Category   | Topic                                                    |
 | :---: | :------------------: | -------------------------------------------------------- |
@@ -45,8 +45,8 @@ By the end of the course, you will be able to&hellip;
 |   9   |      _Network_       | **[Lesson 9]: OWASP Top 10**                             |
 |  10   |    _Operational_     | **[Lesson 10]: DDoS**                                    |
 |  11   |          -           | Lab Day: Prepare Study Guide / Mock Interviews           |
-|  12   |    _1-1 w/ Dani_     | **Interview Day :one:** _(Surnames `A` - `M`)_           |
-|  13   |    _1-1 w/ Dani_     | **Interview Day :two:** _(Surnames `N` - `Z`)_           |
+|  12   |    _1-1 w/ Dani_     | TBD                                                      |
+|  13   |    _1-1 w/ Dani_     | **Interview Day**                                        |
 
 ## Class Assignments
 
