@@ -44,8 +44,8 @@ By the end of the course, you will be able to&hellip;
 |   8   |        _Web_         | **[Lesson 8]: Encryption**                               |
 |   9   |      _Network_       | **[Lesson 9]: OWASP Top 10**                             |
 |  10   |    _Operational_     | **[Lesson 10]: DDoS**                                    |
-|  11   |          -           | Lab Day: Prepare Study Guide / Mock Interviews           |
-|  12   |    _1-1 w/ Dani_     | TBD                                                      |
+|  11   |          -           | **Lab Day**: Prepare Study Guide / Mock Interviews           |
+|  12   |          -           | **TBD**                                                      |
 |  13   |    _1-1 w/ Dani_     | **Interview Day**                                        |
 
 ## Class Assignments
