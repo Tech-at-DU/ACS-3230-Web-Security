@@ -116,7 +116,6 @@ app.use(express.static('public'));
 
 Take an old project or tutorial, and integrate express-sanitizer or DOMPurify to it to sanitize your server side code!
 
-The instructor will check in on progress throughout this and then have 1-2 students present their script for review. We'll also take this time for the instructor to share some tips/tricks/info writing these sanitization scripts.
-
 ## 🌃 After Class
-Finish the above activity and put the link to your commit in the course tracker.
+
+Finish the above activity and submit your sanitized project on [Gradescope](https://www.gradescope.com/courses/460101/assignments/2401082).
