@@ -114,7 +114,9 @@ app.use(express.static('public'));
 
 ### 💻 Activity: Write Your Own Sanitization Script
 
-Take an old project or tutorial, and integrate express-sanitizer or DOMPurify to it to sanitize your server side code!
+Take an old project or tutorial, and integrate express-sanitizer, DOMPurify, or any other propular package to it to sanitize your server side code! 
+
+You may need to do some research into which package is appropriate for your project.
 
 ## 🌃 After Class
 
