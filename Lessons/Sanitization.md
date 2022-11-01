@@ -112,9 +112,11 @@ app.use(express.static('public'));
 
 - Install [DOMPurify](https://github.com/cure53/DOMPurify) and use it to make a client-side sanitization script. You will have to run all of your client JS from a module!
 
-### 💻 Activity: Write Your Own Sanitization Script
+### 💻 Homework: Write Your Own Sanitization Script
 
 Take an old project or tutorial, and integrate express-sanitizer, DOMPurify, or any other propular package to it to sanitize your server side code! 
+
+It needs to be a project that has a form on the front-end.
 
 You may need to do some research into which package is appropriate for your project.
 
