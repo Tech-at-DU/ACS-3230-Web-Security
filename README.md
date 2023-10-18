@@ -54,29 +54,29 @@ We will be using [Gradescope] this term, which allows us to provide fast and acc
 
 Your [Gradescope] login is your Dominican University email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-### Tutorials
-
-| Name                                    |
-| --------------------------------------- |
-| [NSE 1: The Threat Landscape]           |
-| [NSE 2: The Evolution of Cybersecurity] |
-
 ### Challenges
+
+Level up your web security and hacking skills by participating in up to 100 [Capture the Flag Challenges](https://ctfd.droxey.com/challenges). To get started, read the [ACS 3230 CTF Setup Guide](Lessons/OWASP.md#Setup). Students must complete `AT LEAST 33` challenges to [pass the course](#Evaluation).
+
+### Assignments
+
+Every assignment is introduced in class. The description of each assignment is below:
 
 | Name                          |
 | ----------------------------- |
+| [Social Engineering for Good] |
 | [Historic Hacks Presentation] |
-| [Social Engineering]          |
 | [Jinja SSTI Exploits]         |
 | [Steganography]               |
-| [Juice Box]                   |
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- The certificate earned at the end of each [tutorial](#tutorials) must be turned in on [Gradescope].
-- Complete and pass all in class [challenges and assignments](#challenges) on [Gradescope].
+- Complete AT LEAST 33 [Juice Shop Challenges](https://ctfd.droxey.com/challenges).
+    - The challenges to complete are described [here](Lessons/OWASP.md#Rules-of-Engagement).
+    - Any participation outside the described [Rules of Engagement](Lessons/OWASP.md#Rules-of-Engagement) will result in a failing grade for the course.
+- Complete and pass all in class [assignments](#assignments) on [Gradescope].
 - Attend and pass a final Course Reflection interview with the instructor.
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
@@ -96,7 +96,7 @@ To pass this course you must meet the following requirements:
 [NSE 1: The Threat Landscape]: https://training.fortinet.com/course/view.php?id=1406
 [NSE 2: The Evolution of Cybersecurity]: https://training.fortinet.com/course/view.php?id=2271
 [Historic Hacks Presentation]: Lessons/EthicalHacking.md#%f0%9f%92%bb-40m-activity-historical-hacks-research
-[Social Engineering]: Lessons/SocialEngineering.md#activity-social-engineering-for-good
+[Social Engineering for Good]: Lessons/SocialEngineering.md#activity-social-engineering-for-good
 [Jinja SSTI Exploits]: Lessons/ServerSideExploits.md#%f0%9f%92%bb-60m-in-class-activity-ssti
 [Steganography]: Lessons/Cryptography.md#35m-%f0%9f%92%bb-activity-decoding-a-secret-message
 [Juice Box]: Lessons/OWASP.md#60m-%f0%9f%92%bb-activity-juice-shop
