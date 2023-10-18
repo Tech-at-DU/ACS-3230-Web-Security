@@ -9,7 +9,6 @@
 
 - [[**20m**] :speech_balloon: **TT**: Topic](#20m-%f0%9f%92%ac-tt-topic)
 - [[**60m**] :computer: **Activity**: OWASP Top 10](#60m-%f0%9f%92%bb-activity-owasp-top-10)
-- [[**15m**] :palm_tree: **BREAK** {docsify-ignore}](#15m-%f0%9f%8c%b4-break-docsify-ignore)
 - [[**60m**] :computer: **Activity**: Juice Shop](#60m-%f0%9f%92%bb-activity-juice-shop)
 - [[**10m**] :computer: **Activity**: Show Off Our Score Boards](#10m-%f0%9f%92%bb-activity-show-off-our-score-boards)
 
@@ -47,14 +46,44 @@ Work on [Hacksplaining: OWASP Top 10](https://www.hacksplaining.com/owasp). Don'
 
 ## [**60m**] :computer: **Activity**: Juice Shop
 
-> Being a web application with a vast number of intended security vulnerabilities, the OWASP Juice Shop is supposed to be the opposite of a best practice or template application for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications. The OWASP Juice Shop is an open-source project hosted by the non-profit Open Web Application Security Project (OWASP) and is developed and maintained by volunteers. Check out the link for more information and documentation on the project: **<https://owasp-juice.shop>**
+Being a web application with a vast number of intended security vulnerabilities, the [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/) intends to be the opposite of a best practice or template application for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications.
 
-Use everything you learned in the Hacksplaining guides to exploit the [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/).
+The OWASP Juice Shop is an open-source project hosted by the non-profit Open Web Application Security Project (OWASP) and is developed and maintained by volunteers. Check out the link for more information and documentation on the project: **<https://owasp-juice.shop>**
+
+### Setup
+
+Set up your own instance of the [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/) project:
+
+1. Install Docker Desktop using the instructions [here](https://docs.docker.com/engine/install/#supported-platforms).
+1. Run the following script in your terminal:
+
+    ```bash
+    $ bash <(curl -sL https://droxey.com/ctf)
+    ```
+  
+1. Use everything you learned in [Hacksplaining: OWASP Top 10](https://www.hacksplaining.com/owasp) to exploit your Juice Shop instance.
+2. Finish a challenge? You MUST submit proof on the course [Capture the Flag](https://ctfd.droxey.com) website.
+    - This website will be used to evaluate your progress and will be a significant factor determining your final grade for this course.
+
+
+### Rules of Engagement
+
+:exclamation: **Remember the following rules when working on your Juice Shop challenges**:
+
+- You **MUST** solve `AT LEAST 33` challenges to earn 100% on this project. _No exceptions._
+    - **`ALL`** of the **Level 1 Challenges**
+    - **`HALF`** of the **Level 2 Challenges**
+    - **`AT LEAST 5`** Challenges ranked **Level 3 through 6**
+- You **MAY** use any resource, as well as one another, to solve the challenges. 
+- You **MAY** solve **ANY** challenge in **ANY ORDER** you see fit. 
+- For every additional challenge completed _(after 33)_, you'll earn a bonus point.
+   - Bonus points CAN be used to replace an assignment you missed.
+   - You CAN NOT use bonus points to skip the interview on the final day of class.
 
 <!-- > -->
 
 ## [**10m**] :computer: **Activity**: Show Off Our Score Boards
 
-Have students take screenshots of their [Score Board](https://juice-shop.herokuapp.com/#/score-board) and post them on Slack.
+Have students take screenshots of their [Score Board](https://ctfd.droxey.com) and post them on Slack.
 
 <!-- > -->
