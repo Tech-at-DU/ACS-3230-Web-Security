@@ -1,6 +1,6 @@
 # If you run this script via the repository, be sure to `chmod +x submitctf.sh` before executing.
 # Executing this script directly is not advised, and should only be preformed by a faculty member during testing.
-# Students, please run `h
+# Students, please run `bash <(curl -sL https://droxey.com/ctf)` to start the Juice Shop.
 
 
 docker run --rm -e "CTF_KEY=acs3230" -e "NODE_ENV=ctf" -p 3000:3000 bkimminich/juice-shop \
