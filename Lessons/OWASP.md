@@ -24,6 +24,7 @@ The OWASP Juice Shop is an open-source project hosted by the non-profit Open Web
 
 To set up your own instance of the [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/) project:
 
+1. Register for the [Capture the Flag](https://ctfd.droxey.com/register) challenge using your `@students.dominican.edu` email address.
 1. Install Docker Desktop using the instructions [here](https://docs.docker.com/engine/install/#supported-platforms).
 1. Run the following script in your terminal:
 
