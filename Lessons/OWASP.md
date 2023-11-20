@@ -6,7 +6,7 @@ _Learn how to safegaurd your projects by exploiting the top 100 vulnerabilities 
 
 ## **Readings & Demonstrations**: Hacksplaining & OWASP Top 10
 
-Preparation materials and exploit demonstrations can be found at. 
+Preparation materials, exploit demonstrations, and assistance can be found at https://pwning.owasp-juice.shop/companion-guide/latest/. 
 
 These readings and demonstrations are intended to enhance the student experience while completing the challenges. Complete all 10 tutorials found on the [OWASP Top 10](https://www.hacksplaining.com/owasp) Hackplaining page **ASAP** to arm yourself with the knowledge you need to exploit the Juice Shop. 
 
