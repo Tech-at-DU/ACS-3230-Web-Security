@@ -29,7 +29,7 @@ To set up your own instance of the [OWASP Juice Shop](https://juice-shop.herokua
 1. Run the following script in your terminal:
 
     ```bash
-    $ bash <(curl -sL https://droxey.com/ctf)
+    $ docker run --rm -e "CTF_KEY=acs3230" -e "NODE_ENV=ctf" -p 3000:3000 bkimminich/juice-shop
     ```
   
 1. Use everything you learned in [Hacksplaining: OWASP Top 10](https://www.hacksplaining.com/owasp) to exploit your Juice Shop instance.
