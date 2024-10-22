@@ -29,8 +29,8 @@ By the end of the course, you will be able to&hellip;
 
 ## Schedule
 
-**Course Dates:** Wednesday, October 19 through Wednesday, December 7, 2022<br>
-**Class Times:** Monday &amp; Wednesday at 4:00pm to 7:45pm
+<!-- **Course Dates:** Wednesday, October 19 through Wednesday, December 7, 2022<br>
+**Class Times:** Monday &amp; Wednesday at 4:00pm to 7:45pm -->
 
 | Class |  Security Category   | Topic                                                    |
 | :---: | :------------------: | -------------------------------------------------------- |
