@@ -4,7 +4,8 @@
 
 1. [🏆 [**5m**] Learning Objectives](#%f0%9f%8f%86-5m-learning-objectives)
 2. [📖 [**20m**] Overview](#%f0%9f%93%96-20m-overview)
-4. [💻 [**45m**] In Class Activity](#%f0%9f%92%bb-60m-in-class-activity)
+3. [💻 [**45m**] In Class Activity](#%f0%9f%92%bb-60m-in-class-activity)
+4. [After Class](#after-class)
 
 ## 🏆 [**5m**] Learning Objectives
 
@@ -81,3 +82,6 @@ Just like your applications, you'll want to audit how safe your accounts are by 
 2. Have it ready to share with the group at the end of the activiy.
 
 
+## After Class
+
+Continue working on the Jinja2 SSTI assignment or any incomplete in class activity: First SQLI Injection, XSS games, or any other activity found in prior lesson plans based on the [course syllabus](README.md).
