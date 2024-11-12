@@ -76,9 +76,7 @@ Just like your applications, you'll want to audit how safe your accounts are by 
 1. Use the following two checklists to audit the repository:
     - [OWASP Secure Coding Practices Checklist](https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist)
     - [OWASP Top Incident Response Considerations](https://www.owasp.org/images/9/92/Top10ConsiderationsForIncidentResponse.pdf)
-1. Find **at least one** potential security threat in your application.
-2. Identfy **at least one reason** a hacker might be interested in attacking your application using this vulnerability.
-1. Write a **three** sentance **Incident Response Plan** that details how your group would respond if the security threat was ever exploited by a malicious actor.
+1. Use assignment on [Gradescope](https://gradescope.com) to fill in and turn in your answers.
 2. Have it ready to share with the group at the end of the activiy.
 
 
