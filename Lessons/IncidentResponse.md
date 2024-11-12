@@ -4,7 +4,6 @@
 
 1. [🏆 [**5m**] Learning Objectives](#%f0%9f%8f%86-5m-learning-objectives)
 2. [📖 [**20m**] Overview](#%f0%9f%93%96-20m-overview)
-3. [🌴 [**10m**] BREAK](#%f0%9f%8c%b4-10m-break)
 4. [💻 [**45m**] In Class Activity](#%f0%9f%92%bb-60m-in-class-activity)
 
 ## 🏆 [**5m**] Learning Objectives
@@ -67,8 +66,6 @@ The FTC [also has guidelines](https://www.ftc.gov/tips-advice/business-center/gu
 On a personal level, if you're ever hacked, change your passwords, use well-known utilities like [haveibeenpwned.com] to gain a sense of how far any breach has spread. 
 
 Just like your applications, you'll want to audit how safe your accounts are by identifing whats been compromised regularly.
-
-## 🌴 [**10m**] BREAK
 
 ## 💻 [**45**] In Class Activity: Audit a Codebase & Present a Plan 
 
