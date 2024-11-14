@@ -45,9 +45,7 @@ To set up your own instance of the [OWASP Juice Shop](https://juice-shop.herokua
 - You **MUST** use the above [Setup Instructions](#Setup) to generate flags specific to this course. Failure to follow these instructions will produce the incorrect flag, yielding incorrect submissions on https://ctfd.droxey.com.
 - You **MUST** solve `AT LEAST 21` challenges to earn 100% on this project. _No exceptions._
 - You **MAY** use any resource, as well as one another, to solve the challenges.
-- You **MAY** solve **ANY** challenge in **ANY ORDER** you see fit. 
-- For every additional challenge completed _(after 21)_, you'll earn a bonus point.
-   - Bonus points CAN be used to replace an assignment you missed.
-   - You CAN NOT use bonus points to skip the interview on the final day of class.
+- You **MAY** solve **ANY** challenge in **ANY ORDER** you see fit.
+- You **MAY NOT** copy and paste a flag and send it to another student; this is a violation of our Academic Honesty policy and will result in both students failing the course. A retake of the course is required if found cheating or sharing flags.
 
 <!-- > -->
