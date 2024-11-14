@@ -42,10 +42,9 @@ To set up your own instance of the [OWASP Juice Shop](https://juice-shop.herokua
 
 :exclamation: **Remember the following rules when working on your Juice Shop challenges**:
 
+- You **MUST** use the above [Setup Instructions](#Setup) to generate flags specific to this course. Failure to follow these instructions will produce the incorrect flag, yielding incorrect submissions on https://ctfd.droxey.com.
 - You **MUST** solve `AT LEAST 21` challenges to earn 100% on this project. _No exceptions._
-    - **`ALL`** of the **Level 1 Challenges**
-    - **`HALF`** of the **Level 2 Challenges**
-- You **MAY** use any resource, as well as one another, to solve the challenges. 
+- You **MAY** use any resource, as well as one another, to solve the challenges.
 - You **MAY** solve **ANY** challenge in **ANY ORDER** you see fit. 
 - For every additional challenge completed _(after 21)_, you'll earn a bonus point.
    - Bonus points CAN be used to replace an assignment you missed.
