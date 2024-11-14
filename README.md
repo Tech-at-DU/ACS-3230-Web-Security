@@ -73,7 +73,7 @@ Every assignment is introduced in class. The description of each assignment is b
 
 To pass this course you must meet the following requirements:
 
-- Complete AT LEAST 33 [Juice Shop Challenges](https://ctfd.droxey.com/challenges).
+- Complete AT LEAST 21 [Juice Shop Challenges](https://ctfd.droxey.com/challenges).
     - The challenges to complete are described [here](Lessons/OWASP.md#Rules-of-Engagement).
     - Any participation outside the described [Rules of Engagement](Lessons/OWASP.md#Rules-of-Engagement) will result in a failing grade for the course.
 - Complete and pass all in class [assignments](#assignments) on [Gradescope].
