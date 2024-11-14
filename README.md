@@ -40,9 +40,9 @@ By the end of the course, you will be able to&hellip;
 |   4   |        _Web_         | **[Lesson 4]: Securing Data: Sanitization & Validation** |
 |   5   |        _Web_         | **[Lesson 5]: Client-Side Vulnerabilities**              |  |
 |   6   |    _Operational_     | **[Lesson 6]: You've Been Hacked. What Do?**             |
-|   7   |        _Web_         | **[Lesson 7]: Cryptography**                             |
+|   7   |        _Web_         | **[Lesson 7]: OWASP Top 10**                            |
 |   8   |        _Web_         | **[Lesson 8]: Encryption**                               |
-|   9   |      _Network_       | **[Lesson 9]: OWASP Top 10**                             |
+|   9   |      _Network_       | **[Lesson 9]: Cryptography**                             |
 |  10   |    _Operational_     | **[Lesson 10]: DDoS**                                    |
 |  11   |          -           | **Lab Day**: Prepare Study Guide / Mock Interviews           |
 |  12   |          -           | **TBD**                                                      |
