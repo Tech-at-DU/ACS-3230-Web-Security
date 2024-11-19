@@ -88,8 +88,8 @@ To pass this course you must meet the following requirements:
 [Lesson 4]: Lessons/Sanitization.md
 [Lesson 5]: Lessons/ClientSideExploits.md
 [Lesson 6]: Lessons/IncidentResponse.md
-[Lesson 9]: Lessons/Cryptography.md
-[Lesson 8]: Lessons/Encryption.md
+[Lesson 8]: Lessons/Cryptography.md
+[Lesson 9]: Lessons/Encryption.md
 [Lesson 7]: Lessons/OWASP.md
 [Lesson 10]: Lessons/DDoS.md
 [Lesson 11]: Lessons/Drills.md
