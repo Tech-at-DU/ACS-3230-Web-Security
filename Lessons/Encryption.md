@@ -228,11 +228,6 @@ In breakout groups of 2 to 3 students, work on the
 - Until asymmetric encryption was invented, the only way to ensure secure transactions on the Internet was to establish a shared private key, or to use a third party to guarantee security.
 - The implications of this are huge. It means any person can send any other person a secret message transmitting information over insecure channels!
 
-## [**10m**] 📊 Vibe Check: Day 8
-
-Ask students to complete the [check for understanding](https://PollEv.com/surveys/cEg1FxGArsHp2VmkJebWe/respond) poll.
-
-Discuss the answers before dismissing class.
 
 ## 📚 Resources & Credits
 
