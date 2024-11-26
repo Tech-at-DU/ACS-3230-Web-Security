@@ -16,7 +16,6 @@
 - [[**10m**] 💻 Activity: Word Cloud](#10m-%f0%9f%92%bb-activity-word-cloud)
 - [[**15m**] 📖 TT: Digital Signatures](#15m-%f0%9f%93%96-tt-digital-signatures)
 - [[**05m**] 🔑 Key Takeaways](#05m-%f0%9f%94%91-key-takeaways)
-- [[**10m**] 📊 Vibe Check: Day 8](#10m-%f0%9f%93%8a-vibe-check-day-8)
 - [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
 <!-- > -->
