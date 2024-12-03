@@ -5,7 +5,6 @@
 1. [🏆 [**5m**] Learning Objectives](#%f0%9f%8f%86-5m-learning-objectives)
 2. [💻 [**20m**] Reading: Dissecting a DDoS](#%f0%9f%92%bb-20m-reading-dissecting-a-ddos)
 3. [📖 [**20m**] Overview: DDoS & Features](#%f0%9f%93%96-10m-overview-ddos--features)
-6. [🌴 [**10m**] BREAK](#%f0%9f%8c%b4-10m-break)
 7. [💻 [**60m**] Lab Time](#%f0%9f%92%bb-60m-lab-time)
 8. [🌃 After Class](#%f0%9f%8c%83-after-class)
 9. [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
@@ -60,6 +59,7 @@ Newer, more advanced botnets will **scan the environment** and gain access to ad
 
 The most valuable botnets scan for the highest number most relevant system exploits and report back to the owner each and every vulnerability that exists in the system at the time of scanning.
 
+<!--
 ## 🌴 [**10m**] BREAK
 
 ## 💻 [**60m**] Lab Time: Secret Message Assignment / Stretch Challenge
@@ -69,8 +69,9 @@ The most valuable botnets scan for the highest number most relevant system explo
 Use the remainder of the class to work on your Secret Message assignment. It is due tonight @ 11:59pm on Gradescope!
 
 If you're done with the assignment, consider the below stretch challenge:
+-->
 
-### Stretch Challenge (Optional)
+## Lab Time: Stretch Challenge (Optional)
 
 Use the [BYOB Framework](https://github.com/malwaredllc/byob) to build your own botnet in Python.
 
